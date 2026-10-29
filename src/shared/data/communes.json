@@ -1,0 +1,2130 @@
+[
+{
+"name": "Aigle",
+"district": "Aigle",
+"rate": 66.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Bex",
+"district": "Aigle",
+"rate": 71.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.76
+},
+{
+"name": "Chessel",
+"district": "Aigle",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Corbeyrier",
+"district": "Aigle",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Gryon",
+"district": "Aigle",
+"rate": 73.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.89
+},
+{
+"name": "Lavey-Morcles",
+"district": "Aigle",
+"rate": 71.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.74
+},
+{
+"name": "Leysin",
+"district": "Aigle",
+"rate": 78.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.8
+},
+{
+"name": "Noville",
+"district": "Aigle",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Ollon",
+"district": "Aigle",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.86
+},
+{
+"name": "Ormont-Dessous",
+"district": "Aigle",
+"rate": 77.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Ormont-Dessus",
+"district": "Aigle",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Rennaz",
+"district": "Aigle",
+"rate": 64.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Roche",
+"district": "Aigle",
+"rate": 66.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Villeneuve",
+"district": "Aigle",
+"rate": 66.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.94
+},
+{
+"name": "Yvorne",
+"district": "Aigle",
+"rate": 71.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Avenches",
+"district": "La Broye-Vully",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Bussy-sur-Moudon",
+"district": "La Broye-Vully",
+"rate": 78.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Champtauroz",
+"district": "La Broye-Vully",
+"rate": 77.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Chavannes-sur-Moudon",
+"district": "La Broye-Vully",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Chevroux",
+"district": "La Broye-Vully",
+"rate": 68.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Corcelles-le-Jorat",
+"district": "La Broye-Vully",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.92
+},
+{
+"name": "Corcelles-près-Payerne",
+"district": "La Broye-Vully",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.83
+},
+{
+"name": "Cudrefin",
+"district": "La Broye-Vully",
+"rate": 59.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.8
+},
+{
+"name": "Curtilles",
+"district": "La Broye-Vully",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Dompierre",
+"district": "La Broye-Vully",
+"rate": 78.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Faoug",
+"district": "La Broye-Vully",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Grandcour",
+"district": "La Broye-Vully",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Henniez",
+"district": "La Broye-Vully",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Hermenches",
+"district": "La Broye-Vully",
+"rate": 78.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Lovatens",
+"district": "La Broye-Vully",
+"rate": 75.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Lucens",
+"district": "La Broye-Vully",
+"rate": 69.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Missy",
+"district": "La Broye-Vully",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Moudon",
+"district": "La Broye-Vully",
+"rate": 72.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.82
+},
+{
+"name": "Payerne",
+"district": "La Broye-Vully",
+"rate": 70.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Prévonloup",
+"district": "La Broye-Vully",
+"rate": 72.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Ropraz",
+"district": "La Broye-Vully",
+"rate": 77.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.92
+},
+{
+"name": "Rossenges",
+"district": "La Broye-Vully",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Syens",
+"district": "La Broye-Vully",
+"rate": 65.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Trey",
+"district": "La Broye-Vully",
+"rate": 78.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Treytorrens",
+"district": "La Broye-Vully",
+"rate": 81.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Valbroye",
+"district": "La Broye-Vully",
+"rate": 70.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Villars-le-Comte",
+"district": "La Broye-Vully",
+"rate": 68.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Villarzel",
+"district": "La Broye-Vully",
+"rate": 75.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Vucherens",
+"district": "La Broye-Vully",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.87
+},
+{
+"name": "Vulliens",
+"district": "La Broye-Vully",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.92
+},
+{
+"name": "Vully-les-Lacs",
+"district": "La Broye-Vully",
+"rate": 67.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.8
+},
+{
+"name": "Assens",
+"district": "Gros-De Vaud",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Bercher",
+"district": "Gros-De Vaud",
+"rate": 79.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Bettens",
+"district": "Gros-De Vaud",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Bottens",
+"district": "Gros-De Vaud",
+"rate": 72.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.0
+},
+{
+"name": "Boulens",
+"district": "Gros-De Vaud",
+"rate": 71.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.8
+},
+{
+"name": "Bournens",
+"district": "Gros-De Vaud",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Boussens",
+"district": "Gros-De Vaud",
+"rate": 64.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Bretigny-sur-Morrens",
+"district": "Gros-De Vaud",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.0
+},
+{
+"name": "Cugy",
+"district": "Gros-De Vaud",
+"rate": 76.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Daillens",
+"district": "Gros-De Vaud",
+"rate": 66.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Echallens",
+"district": "Gros-De Vaud",
+"rate": 72.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Essertines-sur-Yverdon",
+"district": "Gros-De Vaud",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Etagnières",
+"district": "Gros-De Vaud",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Fey",
+"district": "Gros-De Vaud",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Froideville",
+"district": "Gros-De Vaud",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Goumoëns",
+"district": "Gros-De Vaud",
+"rate": 75.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Jorat-Menthue",
+"district": "Gros-De Vaud",
+"rate": 70.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Lussery-Villars",
+"district": "Gros-De Vaud",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Mex",
+"district": "Gros-De Vaud",
+"rate": 59.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Montanaire",
+"district": "Gros-De Vaud",
+"rate": 70.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Montilliez",
+"district": "Gros-De Vaud",
+"rate": 72.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.96
+},
+{
+"name": "Morrens",
+"district": "Gros-De Vaud",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.0
+},
+{
+"name": "Ogens",
+"district": "Gros-De Vaud",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.8
+},
+{
+"name": "Oppens",
+"district": "Gros-De Vaud",
+"rate": 79.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Oulens-sous-Echallens",
+"district": "Gros-De Vaud",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Pailly",
+"district": "Gros-De Vaud",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Penthalaz",
+"district": "Gros-De Vaud",
+"rate": 72.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Penthaz",
+"district": "Gros-De Vaud",
+"rate": 69.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.02
+},
+{
+"name": "Penthéréaz",
+"district": "Gros-De Vaud",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Poliez-Pittet",
+"district": "Gros-De Vaud",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.0
+},
+{
+"name": "Rueyres",
+"district": "Gros-De Vaud",
+"rate": 73.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Saint-Barthélemy",
+"district": "Gros-De Vaud",
+"rate": 77.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Sullens",
+"district": "Gros-De Vaud",
+"rate": 64.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Villars-le-Terroir",
+"district": "Gros-De Vaud",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Vuarrens",
+"district": "Gros-De Vaud",
+"rate": 73.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Vufflens-la-Ville",
+"district": "Gros-De Vaud",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.02
+},
+{
+"name": "Agiez",
+"district": "Jura-Nord Vaudois",
+"rate": 76.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Arnex-sur-Orbe",
+"district": "Jura-Nord Vaudois",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Ballaigues",
+"district": "Jura-Nord Vaudois",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.67
+},
+{
+"name": "Baulmes",
+"district": "Jura-Nord Vaudois",
+"rate": 76.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Bavois",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Belmont-sur-Yverdon",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Bioley-Magnoux",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Bofflens",
+"district": "Jura-Nord Vaudois",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Bonvillars",
+"district": "Jura-Nord Vaudois",
+"rate": 67.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Bretonnières",
+"district": "Jura-Nord Vaudois",
+"rate": 69.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Bullet",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.66
+},
+{
+"name": "Chamblon",
+"district": "Jura-Nord Vaudois",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Champagne",
+"district": "Jura-Nord Vaudois",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Champvent",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Chavannes-le-Chêne",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Chavornay",
+"district": "Jura-Nord Vaudois",
+"rate": 70.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Chêne-Pâquier",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Cheseaux-Noréaz",
+"district": "Jura-Nord Vaudois",
+"rate": 67.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.89
+},
+{
+"name": "Concise",
+"district": "Jura-Nord Vaudois",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Corcelles-près-Concise",
+"district": "Jura-Nord Vaudois",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Cronay",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Croy",
+"district": "Jura-Nord Vaudois",
+"rate": 74.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Cuarny",
+"district": "Jura-Nord Vaudois",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Démoret",
+"district": "Jura-Nord Vaudois",
+"rate": 78.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Donneloye",
+"district": "Jura-Nord Vaudois",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Ependes",
+"district": "Jura-Nord Vaudois",
+"rate": 73.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Fiez",
+"district": "Jura-Nord Vaudois",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Fontaines-sur-Grandson",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Giez",
+"district": "Jura-Nord Vaudois",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Grandevent",
+"district": "Jura-Nord Vaudois",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Grandson",
+"district": "Jura-Nord Vaudois",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.86
+},
+{
+"name": "Juriens",
+"district": "Jura-Nord Vaudois",
+"rate": 79.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "La Praz",
+"district": "Jura-Nord Vaudois",
+"rate": 83.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "L'Abbaye",
+"district": "Jura-Nord Vaudois",
+"rate": 76.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Les Bioux (fraction)",
+"district": "Jura-Nord Vaudois",
+"rate": 3.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "L'Abergement",
+"district": "Jura-Nord Vaudois",
+"rate": 80.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Le Chenit",
+"district": "Jura-Nord Vaudois",
+"rate": 58.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Le Brassus (fraction)",
+"district": "Jura-Nord Vaudois",
+"rate": 8.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Le Sentier (fraction)",
+"district": "Jura-Nord Vaudois",
+"rate": 8.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "L'Orient (fraction)",
+"district": "Jura-Nord Vaudois",
+"rate": 10.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Le Lieu",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.72
+},
+{
+"name": "Les Clées",
+"district": "Jura-Nord Vaudois",
+"rate": 80.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Lignerolle",
+"district": "Jura-Nord Vaudois",
+"rate": 78.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Mathod",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Mauborget",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.66
+},
+{
+"name": "Molondin",
+"district": "Jura-Nord Vaudois",
+"rate": 81.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Montagny-près-Yverdon",
+"district": "Jura-Nord Vaudois",
+"rate": 64.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Montcherand",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Mutrux",
+"district": "Jura-Nord Vaudois",
+"rate": 80.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Novalles",
+"district": "Jura-Nord Vaudois",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.81
+},
+{
+"name": "Onnens",
+"district": "Jura-Nord Vaudois",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Orbe",
+"district": "Jura-Nord Vaudois",
+"rate": 75.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.86
+},
+{
+"name": "Orges",
+"district": "Jura-Nord Vaudois",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Orzens",
+"district": "Jura-Nord Vaudois",
+"rate": 79.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Pomy",
+"district": "Jura-Nord Vaudois",
+"rate": 71.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Premier",
+"district": "Jura-Nord Vaudois",
+"rate": 79.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Provence",
+"district": "Jura-Nord Vaudois",
+"rate": 81.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.85
+},
+{
+"name": "Rances",
+"district": "Jura-Nord Vaudois",
+"rate": 76.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Romainmôtier-Envy",
+"district": "Jura-Nord Vaudois",
+"rate": 81.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.77
+},
+{
+"name": "Rovray",
+"district": "Jura-Nord Vaudois",
+"rate": 73.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Sainte-Croix",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.66
+},
+{
+"name": "Sergey",
+"district": "Jura-Nord Vaudois",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Suchy",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Suscévaz",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Tévenon",
+"district": "Jura-Nord Vaudois",
+"rate": 71.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Treycovagnes",
+"district": "Jura-Nord Vaudois",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Ursins",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Valeyres-sous-Montagny",
+"district": "Jura-Nord Vaudois",
+"rate": 70.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Valeyres-sous-Rances",
+"district": "Jura-Nord Vaudois",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Valeyres-sous-Ursins",
+"district": "Jura-Nord Vaudois",
+"rate": 77.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.79
+},
+{
+"name": "Vallorbe",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.73
+},
+{
+"name": "Vaulion",
+"district": "Jura-Nord Vaudois",
+"rate": 81.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.67
+},
+{
+"name": "Villars-Epeney",
+"district": "Jura-Nord Vaudois",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Vugelles-La Mothe",
+"district": "Jura-Nord Vaudois",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Vuiteboeuf",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.78
+},
+{
+"name": "Yverdon-les-Bains",
+"district": "Jura-Nord Vaudois",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.89
+},
+{
+"name": "Yvonand",
+"district": "Jura-Nord Vaudois",
+"rate": 73.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.83
+},
+{
+"name": "Cheseaux-sur-Lausanne",
+"district": "Lausanne",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.05
+},
+{
+"name": "Epalinges",
+"district": "Lausanne",
+"rate": 64.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.13
+},
+{
+"name": "Jouxtens-Mézery",
+"district": "Lausanne",
+"rate": 59.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.05
+},
+{
+"name": "Lausanne",
+"district": "Lausanne",
+"rate": 78.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.02
+},
+{
+"name": "Le Mont-sur-Lausanne",
+"district": "Lausanne",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.05
+},
+{
+"name": "Romanel-sur-Lausanne",
+"district": "Lausanne",
+"rate": 70.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.05
+},
+{
+"name": "Belmont-sur-Lausanne",
+"district": "Lavaux-Oron",
+"rate": 72.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.08
+},
+{
+"name": "Bourg-en-Lavaux",
+"district": "Lavaux-Oron",
+"rate": 62.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.01
+},
+{
+"name": "Chexbres",
+"district": "Lavaux-Oron",
+"rate": 67.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Forel (Lavaux)",
+"district": "Lavaux-Oron",
+"rate": 69.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Jorat-Mézières",
+"district": "Lavaux-Oron",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Lutry",
+"district": "Lavaux-Oron",
+"rate": 54.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.09
+},
+{
+"name": "Maracon",
+"district": "Lavaux-Oron",
+"rate": 74.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.92
+},
+{
+"name": "Montpreveyres",
+"district": "Lavaux-Oron",
+"rate": 74.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.92
+},
+{
+"name": "Oron",
+"district": "Lavaux-Oron",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Paudex",
+"district": "Lavaux-Oron",
+"rate": 66.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.08
+},
+{
+"name": "Puidoux",
+"district": "Lavaux-Oron",
+"rate": 68.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.97
+},
+{
+"name": "Pully",
+"district": "Lavaux-Oron",
+"rate": 61.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Rivaz",
+"district": "Lavaux-Oron",
+"rate": 62.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Savigny",
+"district": "Lavaux-Oron",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Servion",
+"district": "Lavaux-Oron",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.92
+},
+{
+"name": "St-Saphorin (Lavaux)",
+"district": "Lavaux-Oron",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Aclens",
+"district": "Morges",
+"rate": 60.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Allaman",
+"district": "Morges",
+"rate": 65.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.09
+},
+{
+"name": "Aubonne",
+"district": "Morges",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.0
+},
+{
+"name": "Ballens",
+"district": "Morges",
+"rate": 73.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Berolle",
+"district": "Morges",
+"rate": 75.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Bière",
+"district": "Morges",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.84
+},
+{
+"name": "Bougy-Villars",
+"district": "Morges",
+"rate": 62.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.01
+},
+{
+"name": "Bremblens",
+"district": "Morges",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Buchillon",
+"district": "Morges",
+"rate": 52.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Chavannes-le-Veyron",
+"district": "Morges",
+"rate": 77.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Chevilly",
+"district": "Morges",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Chigny",
+"district": "Morges",
+"rate": 62.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Clarmont",
+"district": "Morges",
+"rate": 72.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Cossonay",
+"district": "Morges",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Cuarnens",
+"district": "Morges",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Denens",
+"district": "Morges",
+"rate": 63.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Denges",
+"district": "Morges",
+"rate": 62.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Dizy",
+"district": "Morges",
+"rate": 75.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Echandens",
+"district": "Morges",
+"rate": 60.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Echichens",
+"district": "Morges",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Eclépens",
+"district": "Morges",
+"rate": 46.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Etoy",
+"district": "Morges",
+"rate": 60.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Féchy",
+"district": "Morges",
+"rate": 64.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.01
+},
+{
+"name": "Ferreyres",
+"district": "Morges",
+"rate": 76.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Gimel",
+"district": "Morges",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Gollion",
+"district": "Morges",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Grancy",
+"district": "Morges",
+"rate": 70.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Hautemorges",
+"district": "Morges",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.91
+},
+{
+"name": "La Chaux (Cossonay)",
+"district": "Morges",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.91
+},
+{
+"name": "La Sarraz",
+"district": "Morges",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.97
+},
+{
+"name": "Lavigny",
+"district": "Morges",
+"rate": 73.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "L'Isle",
+"district": "Morges",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Lonay",
+"district": "Morges",
+"rate": 55.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Lully",
+"district": "Morges",
+"rate": 58.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Lussy-sur-Morges",
+"district": "Morges",
+"rate": 61.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Mauraz",
+"district": "Morges",
+"rate": 75.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Moiry",
+"district": "Morges",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Mollens",
+"district": "Morges",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Mont-la-Ville",
+"district": "Morges",
+"rate": 76.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Montricher",
+"district": "Morges",
+"rate": 64.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.88
+},
+{
+"name": "Morges",
+"district": "Morges",
+"rate": 67.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.05
+},
+{
+"name": "Orny",
+"district": "Morges",
+"rate": 73.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Pompaples",
+"district": "Morges",
+"rate": 66.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.95
+},
+{
+"name": "Préverenges",
+"district": "Morges",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Romanel-sur-Morges",
+"district": "Morges",
+"rate": 56.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Saint-Livres",
+"district": "Morges",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.01
+},
+{
+"name": "Saint-Oyens",
+"district": "Morges",
+"rate": 77.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Saint-Prex",
+"district": "Morges",
+"rate": 59.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.17
+},
+{
+"name": "Saubraz",
+"district": "Morges",
+"rate": 77.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Senarclens",
+"district": "Morges",
+"rate": 68.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.91
+},
+{
+"name": "Tolochenaz",
+"district": "Morges",
+"rate": 64.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.05
+},
+{
+"name": "Vaux-sur-Morges",
+"district": "Morges",
+"rate": 56.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Villars-sous-Yens",
+"district": "Morges",
+"rate": 74.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Vufflens-le-Château",
+"district": "Morges",
+"rate": 60.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Vullierens",
+"district": "Morges",
+"rate": 76.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Yens",
+"district": "Morges",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Arnex-sur-Nyon",
+"district": "Nyon",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Arzier-Le Muids",
+"district": "Nyon",
+"rate": 64.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Bassins",
+"district": "Nyon",
+"rate": 72.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Begnins",
+"district": "Nyon",
+"rate": 62.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Bogis-Bossey",
+"district": "Nyon",
+"rate": 70.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Borex",
+"district": "Nyon",
+"rate": 57.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Bursinel",
+"district": "Nyon",
+"rate": 62.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Bursins",
+"district": "Nyon",
+"rate": 71.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Burtigny",
+"district": "Nyon",
+"rate": 75.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Chavannes-de-Bogis",
+"district": "Nyon",
+"rate": 58.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Chavannes-des-Bois",
+"district": "Nyon",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Chéserex",
+"district": "Nyon",
+"rate": 59.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Coinsins",
+"district": "Nyon",
+"rate": 49.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Commugny",
+"district": "Nyon",
+"rate": 58.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Coppet",
+"district": "Nyon",
+"rate": 57.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Crans",
+"district": "Nyon",
+"rate": 59.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Crassier",
+"district": "Nyon",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Duillier",
+"district": "Nyon",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Dully",
+"district": "Nyon",
+"rate": 53.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Essertines-sur-Rolle",
+"district": "Nyon",
+"rate": 66.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Eysins",
+"district": "Nyon",
+"rate": 59.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Founex",
+"district": "Nyon",
+"rate": 57.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Genolier",
+"district": "Nyon",
+"rate": 52.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Gilly",
+"district": "Nyon",
+"rate": 62.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Gingins",
+"district": "Nyon",
+"rate": 60.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Givrins",
+"district": "Nyon",
+"rate": 68.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Gland",
+"district": "Nyon",
+"rate": 61.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Grens",
+"district": "Nyon",
+"rate": 60.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "La Rippe",
+"district": "Nyon",
+"rate": 63.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Le Vaud",
+"district": "Nyon",
+"rate": 69.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Longirod",
+"district": "Nyon",
+"rate": 77.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Luins",
+"district": "Nyon",
+"rate": 58.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Marchissy",
+"district": "Nyon",
+"rate": 77.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Mies",
+"district": "Nyon",
+"rate": 54.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Mont-sur-Rolle",
+"district": "Nyon",
+"rate": 62.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.09
+},
+{
+"name": "Nyon",
+"district": "Nyon",
+"rate": 61.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Perroy",
+"district": "Nyon",
+"rate": 60.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.09
+},
+{
+"name": "Prangins",
+"district": "Nyon",
+"rate": 57.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Rolle",
+"district": "Nyon",
+"rate": 59.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Saint-Cergue",
+"district": "Nyon",
+"rate": 66.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Saint-George",
+"district": "Nyon",
+"rate": 69.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.98
+},
+{
+"name": "Signy-Avenex",
+"district": "Nyon",
+"rate": 58.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Tannay",
+"district": "Nyon",
+"rate": 60.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.11
+},
+{
+"name": "Tartegnin",
+"district": "Nyon",
+"rate": 79.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Trélex",
+"district": "Nyon",
+"rate": 57.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.15
+},
+{
+"name": "Vich",
+"district": "Nyon",
+"rate": 63.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Vinzel",
+"district": "Nyon",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.07
+},
+{
+"name": "Bussigny",
+"district": "L'Ouest Lausannois",
+"rate": 62.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Chavannes-près-Renens",
+"district": "L'Ouest Lausannois",
+"rate": 77.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.06
+},
+{
+"name": "Crissier",
+"district": "L'Ouest Lausannois",
+"rate": 63.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.04
+},
+{
+"name": "Ecublens",
+"district": "L'Ouest Lausannois",
+"rate": 62.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.06
+},
+{
+"name": "Prilly",
+"district": "L'Ouest Lausannois",
+"rate": 72.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.04
+},
+{
+"name": "Renens",
+"district": "L'Ouest Lausannois",
+"rate": 77.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.04
+},
+{
+"name": "Saint-Sulpice",
+"district": "L'Ouest Lausannois",
+"rate": 55.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Villars-Sainte-Croix",
+"district": "L'Ouest Lausannois",
+"rate": 60.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.1
+},
+{
+"name": "Blonay - Saint-Légier",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 67.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.01
+},
+{
+"name": "Chardonne",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 68.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Château-d'Oex",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 81.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.74
+},
+{
+"name": "Corseaux",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 67.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.03
+},
+{
+"name": "Corsier-sur-Vevey",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 64.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Jongny",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 69.5,
+"rateConfirmed2025": true,
+"rentalValueCoef": 1.03
+},
+{
+"name": "La Tour-de-Peilz",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 64.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 1.01
+},
+{
+"name": "Montreux",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 65.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.96
+},
+{
+"name": "Rossinière",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 81.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.74
+},
+{
+"name": "Rougemont",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 79.0,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.74
+},
+{
+"name": "Vevey",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 74.5,
+"rateConfirmed2025": false,
+"rentalValueCoef": 0.99
+},
+{
+"name": "Veytaux",
+"district": "Riviera-Pays d'Enhaut",
+"rate": 65.0,
+"rateConfirmed2025": true,
+"rentalValueCoef": 0.96
+}
+]

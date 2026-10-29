@@ -1,0 +1,780 @@
+Kanton Zürich
+Steueramt
+
+Merkblatt zum
+­Hilfsblatt A
+
+(mit kaufmännischer und v
+­ ereinfachter
+Buchführung)
+
+A. Grundlagen
+
+Steuerpflichtige, die eine selbständige Erwerbstätigkeit ausüben bzw. ein Einzelunternehmen
+führen oder an einer Personengesellschaft beteiligt sind, haben in jedem Kalenderjahr sowie
+am Ende der Steuerpflicht einen Geschäftsabschluss zu erstellen. Kein Geschäftsabschluss
+ist zu erstellen, wenn die Erwerbstätigkeit erst im letzten Quartal des Kalenderjahres auf­
+genommen worden ist (§ 50 Abs. 3 StG). Der Steuererklärung beizulegen sind die unterzeich­
+neten Jahresrechnungen (Erfolgsrechnungen, Bilanzen und Anhang) oder, wenn nach dem
+Obligationenrecht keine umfassende Pflicht zur Führung von Geschäftsbüchern besteht, Auf­
+stellungen über Aktiven und Passiven, Einnahmen und Ausgaben sowie Privatentnahmen und
+Privateinlagen (§ 134 Abs. 2 StG). Darüber hinaus ist mit der Steuererklärung das Hilfsblatt A
+einzureichen, das einen Bestandteil der Steuererklärung bildet. Für Selbständigerwerbende
+der Land-­und Forstwirtschaft bestehen anstelle des Hilfsblattes A besondere Hilfsblätter
+bzw. Fragebogen.
+Die Steuerpflichtigen unterliegen ferner einer allgemeinen und umfassenden Auskunftspflicht
+(§ 135 Abs. 2 StG). Danach sind sie zur umfassenden Mitwirkung im Einschätzungsverfahren
+verpflichtet. Die Steuerbehörden dürfen alle für die Sachverhaltsabklärung geeigneten und
+notwendigen Auskünfte und Unterlagen verlangen.
+Im Übrigen haben Steuerpflichtige, die eine selbständige Erwerbstätigkeit ausüben, nach
+§ 135 Abs. 3 StG alle Urkunden und sonstigen Belege, die mit dieser Tätigkeit in Zusammen­
+hang stehen, während zehn Jahren aufzubewahren. Die Belege sind systematisch zu ordnen.
+Die Buchungsvorfälle müssen jederzeit und ohne wesentlichen Aufwand einzeln vom Beleg
+bis zur Abschlussbuchung beziehungsweise bis zur Steuererklärung und umgekehrt überprüft
+werden können. Die geschäftsmässige Begründetheit muss aus den Belegen ersichtlich sein.
+
+B. Neues Rechnungslegungsrecht
+
+Am 1. Januar 2013 ist im Obligationenrecht das neue Rechnungslegungsrecht in Kraft getre­
+ten. Dieses findet erstmals Anwendung auf Geschäftsjahre, welche zwei Jahre nach Inkraft­
+treten des neuen Rechnungslegungsrechts, das heisst ab 1. Januar 2015, beginnen.
+Nach dem neuen Rechnungslegungsrecht ist zu unterscheiden zwischen
+• Einzelunternehmen und Personengesellschaften mit einem Umsatzerlös von mindestens
+500’000 Franken; diese unterliegen gemäss Art. 957 Abs. 1 OR der Pflicht zur kaufmännischen
+Buchführung (Art. 957a ff. OR);
+• Einzelunternehmen und Personengesellschaften mit einem Umsatzerlös von weniger als
+500’000 Franken; diese müssen gemäss Art. 957 Abs. 2 OR lediglich über die Einnahmen
+und Ausgaben sowie über die Vermögenslage Buch führen (vereinfachte Buchführung). Die
+Grundsätze ordnungsmässiger Buchführung gelten sinngemäss (Art. 957 Abs. 3 OR). Einzel­
+unternehmen und Personengesellschaften mit einem Umsatzerlös von weniger als 500’000
+Franken können sich aber freiwillig der kaufmännischen Buchführung unterziehen.
+
+Hilfsblatt A für Selbständigerwerbende
+mit kaufmännischer Buchführung
+Kanton Zürich
+Jahr
+
+113
+11
+3 211
+2113
+3 211
+2113
+3 21 Gemeinde
+
+AHVN13 7 5 6
+13-stellig
+
+Name
+
+Selbständigerwerbende mit
+umfassender kaufmännischer
+Buchführung haben dieses
+Hilfsblatt vollständig auszufüllen und einen unterzeichneten
+Geschäftsabschluss sowie die
+Auszüge (= Kontoblätter aus
+dem Hauptbuch) sämtlicher
+Privat- und Eigenkapitalkonten
+beizulegen.
+
+Vorname
+
+Haupterwerb
+Nebenerwerb
+
+1692
+
+UID
+
+1695
+
+Person 1
+Person 1
+
+1690
+
+CHE
+
+Person 2
+Person 2
+
+1691
+1693
+
+213213211
+
+Firmenname und Sitz
+Nebensteuerdomizile
+(Betriebsstätten und Liegenschaften im Kanton Zürich, in anderen
+Kantonen und im Ausland)
+Branche/Art der Geschäftstätigkeit
+Namen und Adressen der
+Mitgesellschafter bzw. Partner
+
+(Bei Personengesellschaft, einfacher Gesellschaft sowie bei Praxis-/Bürogemeinschaft)
+
+vom
+
+Geschäftsjahr
+
+bis
+
+der Liquidation)
+Hilfsblatt A für Selbständigerwerbende
+13213211
+mit vereinfachter Buchführung
+(resp. Datum Abschluss
+
+Bruttoumsatz
+
+1800
+
+Aufwand für Material, Waren und Drittleistungen
+
+Kanton Zürich
+
+13213211
+13213211
+
+1801
+
+113
+11
+3 211
+2113
+3 211
+2113
+3 21
+
+AHVN13 7 5 6
+Gemeinde
+13-stellig gemäss Erfolgsrechnung (für Steuerausscheidungszwecke)
+1802
+JahrSchuldzinsen
+Name
+Vorname
+1.
+Einkünfte
+Haupterwerb
+1690
+Person 1
+1691
+1.1 Reingewinn
+bzw. -verlust gemäss Erfolgsrechnung
+1810
+Nebenerwerb
+1692
+Person 1
+1693
+2.
+Korrekturen
+2.1 Barbezüge,
+1811
+UID Eigensaläre und Eigenkapitalzinsen
+1695 CHE
+
+13213211
+
+Person 2
+Person 2
+
+213213211 + 13213211
+
+2.2 Persönliche Vorsorgebeiträge 2. Säule und 3. Säule a 1)
+Firmenname und Sitz
+Selbständigerwerbende mit
+2.3 Weitere Aufrechnungen
+vereinfachter Buchführung
+z. B. private
+Versicherungsprämien und Steuern
+Nebensteuerdomizile
+haben dieses Hilfsblatt
+2.4 Naturalbezüge
+und Privatanteile
+an den Unkosten
+(Betriebsstätten
+und Liegenschafvollständig auszufüllen und
+ten im Kanton Zürich, in anderen
+unterzeichnete Aufstellungen
+2.5 Weitere
+Korrekturen
+Kantonen
+und im Ausland)
+über Aktiven und Passiven,
+z. B. Mietwert der privat genutzten Wohnung, Privatanteil an den Autokosten, Veränderung der als
+Einnahmen und Ausgaben sowieEinkommen
+versteuerten
+Reserven
+Branche/Art
+derstillen
+Geschäftstätigkeit
+Privatentnahmen und -einlagen
+3.
+Subtotal = Einkünfte aus selbständiger Erwerbstätigkeit für AHV-Zwecke
+einzureichen.
+Namen und Adressen der
+4.
+Zusätzliche
+Korrekturen
+fürPartner
+Steuerzwecke
+Mitgesellschafter
+bzw.
+4.1 Persönliche
+AHV/IV/EO-Beiträge
+(in GesellZiff. 16.1 der Steuererklärung abzuziehen)
+(Bei Personengesellschaft,
+einfacher
+4.2
+* Minuszeichen eintragen,
+wenn negativ
+
+4.3
+
+5.
+
+1814
+
+13213211
+13213211
+13213211
+1* 13213211
++
+
++
++
+
+13213211
+
+1740
+
+1741
+
++
+
+Abzüglich verbuchte Bruttoerträge von Geschäftswertschriften und -guthaben,
+soweit im Wertschriftenverzeichnis enthalten
+1742
+
+–
+
+schaft sowie bei Praxis-/Bürogemeinschaft)
+
+Weitere
+Abzüge
+Geschäftsjahr
+
+Eine Abweichung zum Kalenderz. B. Verrechnung Vorjahresverluste
+jahr ist nur bei Geschäftsaufnah-
+
+1) Als Geschäftsanteil
+me odergilt
+-aufgabe
+derjeni-möglich.
+
+1812
+1813
+
+1815
+
+vom
+
+bis
+
+1743
+
+–
+
+13213211
+13213211
+13213211
+
+(resp. Datum Abschluss
+der
+Liquidation)
+1750
+
+13213211
+
+Einkünfte aus selbständiger Erwerbstätigkeit
+
+ge Anteil (ohne EinkaufsbeiträIst-Methode
+Soll
+Abrechnungsart (bitte ankreuzen):
+ge), der als Arbeitgeberanteil
+für mit ver▸ -Methode
+Zu übertragen in die
+Selbständigerwerbende
+das Personaleinfachter
+geleistet wird
+bzw.
+Steuererklärung Seite 2, Ziffer 2
+Buchführung
+können
+die Hälfte, soihre
+keinEinnahmen
+solches Perund Ausgaben
+6. imAngaben
+das Warenlager
+Beginn Geschäftsjahr
+Ende Geschäftsjahr
+1. über
+Angaben
+über das Warenlager
+Beginn Geschäftsjahr
+Ende Geschäftsjahr
+sonal vorhanden
+ist. Die
+Zeitpunkt
+derverbleiBezahlung erfassen
+oder Herstellungskosten
+(bzw. maximal
+Marktwert)
+benden Beiträge,
+Einkaufsbei- oder im6.1
+(sog. Ist-Methode)
+Zeit- Anschaﬀ
+1.1 ungsAnschaﬀ
+ungs- oder Herstellungskosten
+(bzw.
+maximal Marktwert)
+träge sowie punkt
+sämtliche
+Beiträge des Rechtsder Vollendung
+6.2 Buchwert
+–
+1.2 Deklarierter Wert
+–
+an die gebundene
+erwerbsSelbstvorsor(sog. Soll-Methode). Die
+ge (3. Säule a)
+sind in der
+Steuergewählte
+Abrechnungsmethode
+6.3 Unterbewertung
+(max. 1/3 Warenreserve)
+1.3 Unterbewertung
+(max. 1/3 Warenreserve)
+erklärung abzuziehen.
+ist grundsätzlich beizubehalten
+6.4Aus-Unterbewertung
+(Warenreserve)
+in % des unter
+Wertes Wertes
+%
+%
+und für alle Einnahmen und
+1.4 Unterbewertung
+(Warenreserve)
+in %6.1
+desangegebenen
+unter 1.1 angegebenen
+%
+gaben anzuwenden.
+
+2
+
+Abschreibungstabelle 1)
+
+blatt A 1995 «Abschreibungen
+
+2.1
+
+Wert zu Beginn Geschäftsjahr
+
+schäftlicher Betriebe» der EStV.
+
+2.2
+
+Zugänge
+
++
+
+2.3
+
+Abgänge
+
+–
+
+2.4
+
+Wert vor Abschreibung
+
+Abschreibungssätze siehe Merk3296212601261
+1)
+
+StA Form. 329 (2021)
+auf dem12.25
+Anlagevermögen ge-
+
+Die Geschäftsliegenschaften
+sind zum Vermögenssteuerwert
+(vgl. ZStB Nr. 21.1) in das Liegenschaftenverzeichnis, die übrigen
+Aktiven zum Jahresendwert in
+die entsprechenden Positionen
+unter Ziffer 13 zu übertragen.
+
+2.5
+
+Verbuchte Abschreibung
+
+2.6
+
+Abschreibung in % (von 2.4)
+
+2.7
+
+Wert Ende Geschäftsjahr
+
+Geschäftsliegenschaft
+
+Fahrzeuge
+
+–
+%
+
+Einrichtungen
+
+2.8
+
+Wert zu Beginn Geschäftsjahr
+
+2.9
+
+Zugänge
+
++
+
+2.10 Abgänge
+
+–
+
+%
+
+2.11 Wert vor Abschreibung
+2.12 Verbuchte Abschreibung
+2.13 Abschreibung in % (von 2.11)
+
+–
+%
+
+%
+
+StA Form. 321 (2024) 12.25
+
+%
+
+2.14 Wert Ende Geschäftsjahr
+
+3286242601261
+
+Seite
+
+StA Form. 328 (2024) 12.25
+
+I. Allgemeines
+1. Neues Rechnungslegungsrecht
+
+2. Kaufmännische Buchführung
+
+D. Einzelunternehmen und Personengesellschaften
+mit ­vereinfachter Buchführung
+
+Zusätzlich zur Steuererklärung und zum Hilfsblatt A für Selbständigerwerbende mit verein­
+fachter Buchführung sind die unterzeichneten Aufstellungen über Aktiven und Passiven, Ein­
+nahmen und Ausgaben sowie Privatentnahmen und ­-einlagen einzureichen.
+
+%
+
+Mobilien
+
+C. Einzelunternehmen und Personengesellschaften
+mit ­kaufmännischer Buchführung
+
+Wer obligationenrechtlich zur kaufmännischen Buchführung verpflichtet ist, ist es auch
+steuer­
+­
+rechtlich. Die Nichtbeachtung der obligationenrechtlichen Buchführungsvorschriften
+stellt daher zugleich eine Verletzung der steuergesetzlichen Verfahrenspflichten dar.
+Zusätzlich zur Steuererklärung und zum Hilfsblatt A für Selbständigerwerbende mit kaufmän­
+nischer Buchführung ist die unterzeichnete Jahresrechnung gemäss Art. 958 OR, enthaltend
+die Bilanz, Erfolgsrechnung und Anhang, einzureichen. Einzelunternehmen und Personenge­
+sellschaften können auf die Erstellung eines Anhangs verzichten, wenn sie nicht zur Rech­
+nungslegung nach den Vorschriften für grössere Unternehmen verpflichtet sind.
+
+%
+
+Maschinen / Werkzeuge
+
+3. Vereinfachte Buchführung
+
+1
+
+E. Steuerrechtliche Anforderungen an die Aufzeichnung
+bei ­bargeldintensiver Geschäftstätigkeit
+4. Bargeldintensive
+­Geschäfts­betriebe
+
+Unabhängig davon, ob Selbständigerwerbende, welche ein Einzelunternehmen betreiben
+oder an Personengesellschaften beteiligt sind, der kaufmännischen oder der vereinfachten
+Buchführungspflicht unterliegen, ist bei intensivem Bargeldverkehr ein Kassabuch zu führen.
+Darin sind die Bareinnahmen und -­ausgaben fortlaufend, lückenlos, wahrheitsgetreu und täg­
+lich aufzuzeichnen. Werden Vorjournale oder Vorbücher, wie z.B. Registrierkassenstreifen,
+verwendet, so sind die Aufzeichnungen in solchen Hilfsbüchern zeitnah in das Kassabuch zu
+übertragen. Dieses ist zudem regelmässig – bei intensivem Bargeldverkehr täglich – zu saldie­
+ren und mit dem tatsächlichen Bargeldbestand (durch sogenannten Kassasturz) zu verglei­
+chen. Werden dabei Differenzen festgestellt, so sind sie sofort zu buchen. Gleiches gilt auch
+für andere Mängel in der Aufzeichnung. Eine Kassabuchführung, die diesen Anforderungen
+nicht entspricht, bewirkt die Vermutung der Unrichtigkeit der gesamten Buchhaltung, indem
+sie eine nicht zu beseitigende Ungewissheit über Höhe von Ertrag und Aufwand sowie von
+Aktiven und Passiven schafft.
+
+F. Kapitalgewinne auf Geschäftsvermögen
+5. Kapitalgewinne auf
+­Geschäfts­vermögen
+
+Als Geschäftsvermögen gelten alle Vermögenswerte, die ganz oder vorwiegend der selbstän­
+digen Erwerbstätigkeit dienen (Präponderanz).
+Kapitalgewinne auf Geschäftsvermögen aus Veräusserung, Verwertung oder buchmässiger
+Aufwertung sowie aus Überführung in das Privatvermögen oder in ausländische Betriebe
+oder Betriebsstätten sind gemäss § 18 Abs. 2 StG und Art. 18 Abs. 2 DBG unabhängig von der
+Buchführungsmethode als Einkommen steuerbar. Im Gegensatz zur direkten Bundessteuer
+sind bei der Staatssteuer Gewinne auf Liegenschaften des Geschäftsvermögens nur in dem
+Umfang als Einkommen steuerbar, als Erwerbspreis und wertvermehrende Aufwendungen,
+einschliesslich Baukreditzinsen, den Einkommenssteuerwert übersteigen (§ 18 Abs. 5 StG).
+
+G. Verluste aus selbständiger Erwerbstätigkeit
+aus ­Vorjahren
+6. Verlustverrechnung
+
+Gemäss § 29 StG und Art. 31 DBG können Verluste aus den der Steuerperiode vorange­
+gangenen sieben Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung des
+steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten. Bei Verlusten
+aus ­mehreren Vorperioden sind vorweg diejenigen zu verrechnen, die aus den frühesten Ge­
+schäftsjahren stammen.
+
+H. Zeitliche Bemessung
+7. Geschäftsjahr und Kalenderjahr
+
+Unabhängig davon, ob Selbständigerwerbende, welche ein Einzelunternehmen betreiben
+oder an Personengesellschaften beteiligt sind, der kaufmännischen oder der vereinfachten
+Buchführungspflicht unterliegen, hat ein Geschäftsjahr in der Regel 12 Monate zu umfassen.
+Bei vom Kalenderjahr abweichenden Geschäftsjahren sind die Einkünfte des oder der im
+Laufe des Kalenderjahres abgeschlossenen Geschäftsjahre zu deklarieren.
+Bei Geschäftsperioden, die mehr oder weniger als 12 Monate umfassen, gilt Folgendes:
+• Bei ganzjähriger Steuerpflicht sind die Ergebnisse der in die Steuerperiode fallenden Ge­
+schäftsabschlüsse ohne Umrechnung auf 12 Monate zu deklarieren. Für die Satzbestimmung
+ist ebenfalls keine Umrechnung vorzunehmen.
+• Bei unterjähriger Steuerpflicht und unterjähriger Geschäftsperiode sind die Ergebnisse der
+in die Steuerperiode fallenden Geschäftsabschlüsse ohne Umrechnung auf 360 Tage zu
+deklarieren. Für die Satzbestimmung sind nur die ordentlichen Gewinne auf 12 Monate um­
+zurechnen. Die Umrechnung erfolgt aufgrund der Dauer der Steuerpflicht. Übersteigt jedoch
+die Dauer der unterjährigen Geschäftsperiode jene der unterjährigen Steuerpflicht, sind die
+ordentlichen Gewinne für die Satzbestimmung nur aufgrund der Dauer des Geschäftsjahres
+auf 12 Monate umzurechnen. Der ausserordentliche Erfolg (wie Kapital-­und Aufwertungs­
+gewinne, Bildung und Auflösung von Rückstellungen usw.) ist auch für die Satzbestimmung
+nie umzurechnen.
+
+I. Landwirte
+
+Die Selbständigerwerbenden der Land- und Forstwirtschaft sind bezüglich der Aufzeich­
+nungspflicht den übrigen Selbständigerwerbenden gleichgestellt. Die Erläuterungen in die­
+sem Merkblatt gelten für sie sinngemäss. Branchenspezifische Besonderheiten ergeben sich
+aus der Wegleitung für die Deklaration von Einkünften aus der Land- und Forstwirtschaft
+(www.zh.ch/steuern [Privatpersonen / Steuererklärung]).
+II. Selbständigerwerbende mit
+kaufmännischer Buchführung
+1. UID-Nummer
+
+J. Hinweise zum Hilfsblatt A für Selbständigerwerbende
+mit kaufmännischer Buchführung
+1. Angaben zum Unternehmen
+Im Feld UID ist die Unternehmens-Identifikationsnummer einzutragen.
+
+2
+
+2. Einkünfte aus selbständiger Erwerbstätigkeit für Steuerzwecke
+Einkünfte aus unselbständiger Erwerbstätigkeit und andere Einkünfte und Aufwendungen,
+welche verbucht sind und nicht die selbständige Erwerbstätigkeit betreffen (z.B. Verwaltungs­
+ratshonorare, Erwerbsausfallentschädigungen für Militärdienst des Steuerpflichtigen, Schuld­
+zinsen und Unterhaltskosten für private Liegenschaften), sind im Hilfsblatt A aus dem Ein­
+kommen aus selbständiger Erwerbstätigkeit auszuscheiden und unter den betreffenden
+Ziffern der Steuererklärung zu deklarieren.
+Der Erfolgsrechnung belastete, steuerlich nicht abzugsfähige Aufwendungen wie private Ver­
+sicherungsprämien und Steuern, Privatanteile an den Unkosten und nichtverbuchte Natural­
+bezüge sind unter den Ziffern 2.1, 2.3, 2.4 und 2.5 zu deklarieren. Für die Bewertung von
+Naturalleistungen sind die Weisung der Finanzdirektion über die Bewertung von Naturalbe­
+zügen bei selbständiger Erwerbstätigkeit und die Weisung des kantonalen Steueramts über
+die Ermittlung des Naturaleinkommens aus der Verwendung eines Geschäftsautos für private
+Fahrten bei Unselbständigerwerbenden und des Privatanteils an den Autokosten bei Selb­
+stän­dig­erwerbenden (www.zh.ch/steuern [Steuerberater  &  Vertreter / Zürcher Steuerbuch]) zu
+beachten.
+Verbuchte persönliche Beiträge an Vorsorgeeinrichtungen der 2. Säule gelten nur in dem Um­
+fang als Geschäftsaufwand, welcher als Arbeitgeberanteil für das Personal geleistet wird oder,
+wenn kein solches Personal vorhanden ist, nur im Umfang von 50 Prozent. Diejenigen Be­
+träge, welche diese Anteile übersteigen, sowie verbuchte Einkaufsbeiträge und Beiträge an
+die Säule 3a sind in Ziffer 2.2 zu deklarieren und in der Steuererklärung unter den Ziffern 14
+und 16.1 abzuziehen.
+In der Bilanz ausgewiesene Geschäftswertschriften und -guthaben sind in Ziffer 8.4, in der
+Erfolgsrechnung ausgewiesene Bruttoerträge von Geschäftswertschriften und Guthaben sind
+in Ziffer 4.2 abzuziehen, soweit sie im Wertschriftenverzeichnis zusammen mit dem Antrag auf
+Rückerstattung der Verrechnungssteuer deklariert und von dort in Ziffer 4 und 30.1 der Steuerer­
+­­klärung übertragen werden. Diese Erträge sind im Wertschriftenverzeichnis mit einem «G» zu­
+bezeichnen. Wenn das Geschäftsjahr nicht mit dem Kalenderjahr abgeschlossen worden ist,
+sind im Wertschriftenverzeichnis trotzdem die im Kalenderjahr fällig gewordenen ­Kapitaler­träge
+des Geschäftsvermögens zu deklarieren. Im Hilfsblatt A dürfen aber nicht diese ­Beträge,­son­
+dern nur die im betreffenden Geschäftsjahr verbuchten Kapitalerträge abgezogen werden.
+Für Wertberichtigungen auf dem Warenlager und Abschreibungen für den nutzungs- und
+alters­bedingten Wertverlust auf Geschäftsaktiven gemäss Art. 960a Abs. 3 OR sind die ent­
+sprechenden Rubriken unter den Ziffern 6 und 7 auszufüllen. Andere Abschreibungen, Rück­
+stellungen und Wertberichtigungen sind auf dem besonderen Formular 322 «Aufstellung über
+Ab­schreibungen» bzw. «Aufstellung über Rückstellungen/Wertberichtigungen» aufzuführen.
+Als Einkommen versteuerte stille Reserven auf Geschäftsaktiven und Fremdkapital sind in
+den Ziffern 8.2 und 9.2, deren Veränderung in Ziffer 2.5 zu deklarieren.
+Die Bewertung von Geschäftsliegenschaften für die Vermögenssteuer richtet sich nach der
+Weisung des Regierungsrates an die Steuerbehörden über die Bewertung von ­Liegenschaften
+und die Festsetzung der Eigenmietwerte (www.zh.ch/steuern [Steuerberater  &  Vertreter /
+Zürcher Steuerbuch]). Die Differenz zwischen dem Vermögenssteuerwert und dem Einkom­
+menssteuerwert (Buchwert + als Einkommen ­versteuerte stille Reserven) ist in Ziffer 10.3 zu
+deklarieren.
+3. Einkünfte aus selbständiger Erwerbstätigkeit und Eigenkapital für AHV-Zwecke
+Die Ermittlung der Einkünfte aus selbständiger Erwerbstätigkeit für AHV-Zwecke (Ziffer 3) und
+des Eigenkapitals für AHV-Zwecke (Ziffer 11.4) dient der Meldung an die AHV-Behörden.
+In Ziffer 11.3 ist für Geschäftsliegenschaften die Differenz zwischen Einkommenssteuerwert
+(Buchwert + als Einkommen versteuerte stille Reserven) und Repartitionswert zu deklarieren.
+Die Repartitionswerte richten sich nach dem Kreisschreiben der Schweizerischen Steuerkon­
+ferenz Nr. 22 «Regeln für die Bewertung der Grundstücke bei interkantonalen Steuerausschei­
+dungen» (www.steuerkonferenz.ch).
+
+K. Hinweise zum Hilfsblatt A für Selbständigerwerbende
+mit ­vereinfachter Buchführung
+
+2. Einkünfte aus unselbständiger
+­Erwerbstätigkeit
+
+3. Geschäftsmässig unbegründete
+Aufwendungen
+
+4. Beiträge an Vorsorgeeinrichtungen
+
+5. Wertschriften und Guthaben
+
+6. Abschreibungen, Wertberichtigun­
+gen und Rückstellungen
+
+7. Versteuerte stille Reserven
+8. Geschäftsliegenschaften
+
+9. AHV-Beiträge
+
+III. Selbständigerwerbende mit
+­vereinfachter Buchführung
+
+1. Angaben zum Unternehmen
+Im Feld UID ist die Unternehmens-Identifikationsnummer einzutragen.
+
+1. UID-Nummer
+
+2. Einkünfte aus selbständiger Erwerbstätigkeit für Steuerzwecke
+Selbständigerwerbende, welche ein Einzelunternehmen betreiben oder an Personengesell­
+schaften beteiligt sind und der vereinfachten Buchführungspflicht unterliegen, können ihre
+Einnahmen und Ausgaben auch unter dem neuen Rechnungslegungsrecht im Zeitpunkt der
+Bezahlung (Ist-Methode) oder im Zeitpunkt der Vollendung des Rechtserwerbs (Soll-Methode)
+erfassen. Werden Kreditoren, Rückstellungen, Wertberichtigungen oder andere passive Rech­
+nungsabgrenzungsposten ausgewiesen, so sind auch die Einnahmen nach der Soll-Methode
+abzugrenzen und mindestens die ausstehenden Fakturen vollständig zu erfassen. Die Ein­
+3
+
+2. Methoden zur Ermittlung des
+­Einkommens
+
+3. Abschreibungen, Wertberichtigun­
+gen und Rückstellungen
+
+4. Geschäftsschulden
+
+5. Naturalleistungen
+
+6. Wertschriften und Guthaben
+
+7. Beiträge an Vorsorgeeinrichtungen
+
+8. Privatanteile
+9. Geschäftsliegenschaften
+
+10. AHV-Beiträge
+
+nahmen aus selbständiger Erwerbstätigkeit bestehen dann aus den tatsächlichen Zahlungs­
+eingängen und der Debitorenveränderung in der Rechnungsperiode. Die gewählte Abrech­
+nungsmethode, welche in den entsprechenden Feldern anzukreuzen ist, ist grundsätzlich
+beizubehalten und für alle Einnahmen und Ausgaben anzuwenden. Eine Abweichung des
+Geschäftsjahres vom Kalenderjahr ist nur bei Aufnahme oder Aufgabe der selbständigen Er­
+werbstätigkeit möglich.
+Für Wertberichtigungen auf dem Warenlager und Abschreibungen auf Geschäftsaktiven für
+den nutzungs- und altersbedingten Wertverlust auf Geschäftsaktiven sind die entsprechen­
+den Rubriken unter den Ziffern 1 und 2 auszufüllen. Andere Abschreibungen, Rückstellungen
+und Wertberichtigungen sind auf dem besonderen Formular 322 «Aufstellung über Abschrei­
+bungen» bzw. «Aufstellung über Rückstellungen/Wertberichtigungen» aufzuführen.
+Geschäftsschulden (mit dem Bestand per Stichtag des Geschäftsabschlusses) und Zinsen
+auf Geschäftsschulden sind unter Ziffer 3 aufzuführen und in Ziffer 14.3 (Geschäftsschulden)
+bzw. 9.7 (Zinsen auf Geschäftsschulden) zu übertragen.
+Naturalbezüge sind unter Ziffer 4.2, der Mietwert der privat genutzten Wohnung ist unter
+­Ziffer 7.1 zu deklarieren. Für die Bewertung von Naturalleistungen sind die Weisung der
+Finanz­direktion über die Bewertung von Naturalbezügen bei selbständiger Erwerbstätigkeit
+und die Weisung des kantonalen Steueramts über die Ermittlung des Naturaleinkommens aus
+der Verwendung eines Geschäftsautos für private Fahrten bei Unselbständigerwerbenden
+und des Privatanteils an den Autokosten bei Selbständigerwerbenden (www.zh.ch/steuern
+[Steuerberater  &  Vertreter / Zürcher Steuerbuch]) zu beachten.
+Bruttoerträge von Geschäftswertschriften und -guthaben sind in Ziffer 7.2 zu deklarieren und,
+soweit sie im Wertschriftenverzeichnis zusammen mit dem Antrag auf Rückerstattung der
+Verrechnungssteuer deklariert und von dort in Ziffer 4 der Steuererklärung übertragen werden,
+in Ziffer 11.2 wieder abzuziehen. Diese Erträge sind im Wertschriftenverzeichnis mit einen «G»
+zu bezeichnen. Wenn das Geschäftsjahr nicht mit dem Kalenderjahr abgeschlossen worden
+ist, sind im Wertschriftenverzeichnis trotzdem die im Kalenderjahr fällig gewordenen Kapital­
+erträge des Geschäftsvermögens zu deklarieren. Im Hilfsblatt A dürfen aber nicht diese Be­
+träge, sondern nur die im betreffenden Geschäftsjahr verbuchten Kapitalerträge abgezogen
+werden.
+Verbuchte persönliche Beiträge an Vorsorgeeinrichtungen der 2. Säule gelten nur in dem Um­
+fang als Geschäftsaufwand, welcher als Arbeitgeberanteil für das Personal geleistet wird oder,
+wenn kein solches Personal vorhanden ist, nur im Umfang von 50 Prozent. Diejenigen Be­
+träge, welche diese Anteile übersteigen, sowie verbuchte Einkaufsbeiträge und Beiträge an
+die Säule 3a sind nicht in Ziffer 9.2 zu deklarieren, sondern in der Steuererklärung unter den
+Ziffern 14 und 16.1 abzuziehen.
+Privatanteile an den als Geschäftsaufwendungen deklarierten Auto- und weiteren Unkosten
+sind in den Ziffern 9.6 und 9.9 zu deklarieren.
+Die Geschäftsliegenschaften sind zum Vermögenssteuerwert gemäss Weisung des Regie­
+rungsrates an die Steuerbehörden über die Bewertung von Liegenschaften und die Fest­set­
+zung der Eigenmietwerte (www.zh.ch/steuern [Steuerberater  &  Vertreter / Zürcher Steuerbuch])
+im Liegenschaftenverzeichnis zu deklarieren.
+3. Einkünfte aus selbständiger Erwerbstätigkeit und Eigenkapital für AHV-Zwecke
+Die Ermittlung der Einkünfte aus selbständiger Erwerbstätigkeit für AHV-Zwecke (Ziffer 10)
+und des Eigenkapitals für AHV-Zwecke (Ziffer 15) dient der Meldung an die AHV-Behörden.
+In Ziffer 15.3 ist für Geschäftsliegenschaften der Repartitionswert zu deklarieren. Dieser rich­
+tet sich nach dem Kreisschreiben der Schweizerischen Steuerkonferenz Nr. 22 «Regeln für
+die ­Be­­wertung der Grundstücke bei interkantonalen Steuerausscheidungen» (www.steuer­
+konferenz.ch).
+
+L. Folgen der Nichterfüllung der Verfahrenspflichten
+­gemäss ­§ 134 Abs. 2 StG
+IV. Nichterfüllen der
+­Verfahrens­pflichten
+
+Selbständigerwerbende, welche ein Einzelunternehmen betreiben oder an einer Personen­
+gesellschaft beteiligt sind und nach den Vorschriften des Obligationenrechts zur kaufmänni­
+schen Buchführung verpflichtet sind, verletzen ihre steuerrechtlichen Verfahrenspflichten,
+wenn sie mit der Steuererklärung keinen unterzeichneten Geschäftsabschluss einreichen
+oder nicht in der Lage sind, auf Verlangen der Steuerbehörden eine ordnungsgemäss ge­führte
+kaufmännische Buchhaltung vorzulegen. Das gleiche gilt für Selbständigerwerbende, welche
+der vereinfachten Buchführungspflicht unterliegen, aber der Steuererklärung keine un­
+terzeichneten Aufstellungen über Aktiven und Passiven, Einnahmen und Ausgaben sowie
+Privatentnahmen und ­-einlagen beilegen oder nicht in der Lage sind, auf Verlangen der
+­
+Steuerbehörden ordnungsgemäss geführte Aufzeichnungen vorzulegen. Wenn daher das
+­
+­tatsächliche Einkommen aus selbständiger Erwerbstätigkeit nicht ermittelt werden kann, ist
+dieses nach erfolglosem Auflageverfahren nach pflichtgemässem Ermessen im Sinne von
+§ 139 Abs. 2 StG zu schätzen.
+Im Übrigen kann die Verletzung von Verfahrenspflichten nach § 234 StG geahndet werden.
+4
+
+

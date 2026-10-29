@@ -1,0 +1,155 @@
+        Tableau des principales déductions vaudoises 2026
+Code   Genre de déduction
+140    Frais de déplacement                Transports en commun : selon norme forfaitaire
+                                           Voiture : CHF 0.75/km, jusqu'à 15'000 km
+                                                      CHF 0.35/km, dès 15'001 km
+150    Frais de repas                      CHF 3'200 par an
+                                           (sans cantine ou sans participation de l'employeur)
+                                           CHF 1'600 par an
+                                           (avec cantine ou avec participation de l'employeur)
+150    Résidence hors du domicile          CHF 6'400 par an (repas midi et soir)
+                                           (sans cantine ou sans participation de l'employeur à midi)
+                                           CHF 4'800 par an (repas midi et soir)
+                                           (avec cantine ou participation de l'employeur à midi)
+160    Autres frais professionnels         3 % du revenu net : CHF 2'000 au minimum
+                                                                  CHF 4'000 au maximum
+165    Frais pour activité accessoire      20 % du revenu net : CHF 800 au minimum
+                                                                  CHF 2'400 au maximum
+235    Double activité des conjoints       CHF 1'700 au maximum, ce pour autant que le revenu le plus bas, diminué des frais
+                                           sous codes 140 à 165 et des primes de prévoyance sous codes 310 à 340, atteigne ce
+                                           montant.
+300    Assurance-maladie                   CHF 5’000 au maximum pour une personne seule
+                                           CHF 9'900 au maximum pour un couple ou partenariat enregistré
+                                           CHF 1'300 au maximum par enfant à charge
+310    Prévoyance individuelle liée        CHF 7'258 au maximum pour la personne affiliée au 2ème pilier
+                                           20% du revenu net, au maximum CHF 36'288 pour la personne non affiliée au 2ème
+                                           pilier
+480    Intérêts de capitaux d'épargne      CHF 1'600 au maximum pour une personne seule
+                                           CHF 3'300 au maximum pour un couple
+                                           CHF 300 au maximum par enfant à charge
+490    Frais d'administration des titres   1.5 ‰ des titres et autres placements de capitaux déclarés sous code 410
+495    Mises dans les loteries             5% de chaque gain imposable de loterie et autres institutions semblables, mais au
+                                           maximum CHF 5'000 par gain imposable
+540    Frais d'entretien d'immeuble        Immeuble de plus de 20 ans, occupé par le propriétaire : 30% de la valeur locative ou
+                                           frais effectifs
+                                           Immeuble de moins de 20 ans, occupé par le propriétaire : 20% de la valeur locative
+                                           ou frais effectifs
+                                           Immeuble de plus de 20 ans, mis en location : 20% du revenu net de l'immeuble privé
+                                           ou frais effectifs
+                                           Immeuble de moins de 20 ans, mis en location : 10% du revenu net de l'immeuble
+                                           privé ou frais effectifs
+                                           Immeuble avec état locatif supérieur à CHF 150'000 : frais effectifs ou déduction
+                                           calculée sur un état locatif de CHF 150’000
+618    Frais de perfectionnement et de     CHF 12'000 au maximum par contribuable de 20 ans et plus
+       formation
+620    Versements aux partis politiques    CHF 10'100 au maximum
+660    Déduction pour le logement          CHF 6'800 au maximum
+670    Frais de garde                      CHF 15'200 au maximum par enfant de moins de 14 ans
+680    Personne à charge                   CHF 3'400 pour autant que l'aide annuelle atteigne ce montant
+695    Contribuable modeste                Selon revenu et situation de famille, au maximum :
+                                           CHF 17'000 de base, plus CHF 5'700 conjoint, resp. plus CHF 3’200 pour famille
+                                           monoparentale, plus CHF 3'500 par enfant à charge
+710    Frais médicaux                      Part excédant le 5 % du revenu intermédiaire (code 700 DI)
+                                           Frais résultant d'un handicap : frais effectifs (voir directive)
+720    Dons (versements bénévoles)         20% au maximum du revenu intermédiaire (code 700 DI)
+725    Déduction famille                   CHF 1'300 au maximum pour un couple
+                                           CHF 2'800 au maximum pour une famille monoparentale
+                                           CHF 1'000 au maximum par enfant à charge
+                                           Plafonnement de la déduction : voir les Instructions générales
+810    Quotient familial                   Détermination des parts : voir ci-dessous
+               Tableau des principales déductions vaudoises 2026
+
+Déduction pour famille
+Une déduction supplémentaire pour famille est accordée aux personnes mariées ou liées par un partenariat enregistré vivant en
+ménage commun, ainsi qu’aux personnes célibataires, veuves, séparées ou divorcées pour autant qu’elles tiennent un ménage
+indépendant seul avec un enfant mineur, en apprentissage ou aux études, dont elles assurent l’entretien complet.
+Lorsque le revenu net déclaré sous code 650 ne dépasse pas CHF 126 400, la déduction supplémentaire pour famille s’élève à :
+• CHF 1 300 pour les personnes mariées ou liées par un partenariat enregistré vivant en ménage commun ;
+• CHF 2 800 pour les personnes célibataires, veuves, séparées ou divorcées tenant un ménage indépendant seul avec un enfant à
+charge (contribuable qui a droit à une part de 1,3 sous code 810) ;
+• CHF 1 000 pour chaque enfant à charge pour lequel les contribuables bénéficient d’une part de 0,5 sous code 810.
+Lorsque le revenu net déclaré sous code 650 dépasse la limite de CHF 126 400, le montant de la déduction diminue de CHF 100
+pour chaque tranche de revenu net de CHF 2 100 dépassant CHF 126 400 et jusqu’à CHF 164 200.
+Au-delà de CHF 164 200, le montant de la déduction diminue de CHF 100 pour chaque tranche de revenu net de CHF 1 000
+dépassant CHF 164 200 (Voir les Instructions générales).
+
+Quotient familial
+Le revenu déterminant pour le taux d’imposition correspond au revenu imposable du contribuable, divisé par le total des parts résultant
+de sa situation de famille au 31 décembre, ou au jour où l’assujettissement dans le canton prend fin.
+
+Les parts sont les suivantes :
+
+        •     1,0 pour le contribuable célibataire, veuf, divorcé ou imposé séparément,
+        •     1,8 pour les époux / partenaires enregistrés vivant en ménage commun,
+        •     1,3 pour le contribuable célibataire, veuf, divorcé ou imposé séparément, qui tient un ménage indépendant seul avec un
+              enfant mineur, en apprentissage ou aux études, dont il assure l’entretien complet ; l’exercice conjoint de l’autorité
+              parentale ne conduit pas à l’octroi de plusieurs parts de 1,3 ; les personnes qui vivent en concubinage avec ou sans
+              enfant ne peuvent prétendre à la part de 1,3,
+        •     0,5 pour chaque enfant mineur, en apprentissage ou aux études, dont le contribuable assure l’entretien complet. Il ne
+              peut pas être accordé plus d’une part de 0,5 par enfant, quelle que soit la situation de famille. A certaines conditions, un
+              partage par moitié de la part de 0,5 entre les deux parents imposés séparément est réservé (voir les Instructions
+              générales).
+
+Exemple : couple marié, vivant en ménage commun, avec 2 enfants mineurs à charge : 1.8 + 0.5 + 0.5 = 2.8
+
+Cette réduction du revenu déterminant pour le taux est plafonnée (Effets du blocage du quotient familial : voir les Instructions
+générales).
+
+Barèmes sommaires de l’impôt cantonal de base 2026
+ Impôt sur le revenu des personnes physiques                                            Impôt sur la fortune des personnes physiques
+   Revenu        Impôt        Par CHF         Revenu         Impôt       Par CHF 100        Fortune imposable2        Impôt annuel     Par CHF 1'000
+ imposable1      annuel        100 de       imposable1       annuel      de revenu en                                                   de fortune en
+                             revenu en                                        plus                                                           plus
+                                plus
+    CHF           CHF           CHF            CHF            CHF           CHF                   CHF                     CHF               CHF
+        100          1.00          1.00          74 400       5'773.00          11.00                      60 000             32.65               0.97
+      1 600         16.00          2.00          91 200       7'621.00          12.00                      95 000             66.60               1.69
+      3 400         52.00          3.00         108 100       9'649.00          12.50                     120'000            108.85               1.69
+      5 100        103.00          4.00         135 000      13'011.50          13.00                     177 000            205.20               2.42
+      8 300        231.00          5.00         162 000      16'521.50          13.50                     355 000            635.95               3.15
+     11 900        411.00          6.00         192 500      20'639.00          14.00                     711 000          1'757.35               3.39
+                                                                                        2
+     15 100        603.00          7.00         223 000      24'909.00          14.50    Les fractions inférieures à 1'000 francs sont abandonnées
+     23 600      1'198.00          8.00         256 000      29'694.00          15.00   La fortune nette n’est pas soumise à l’impôt si son montant
+     40 500      2'550.00          9.00         291 700      35'049.00          15.50   n’atteint pas CHF 60 000 ; ce montant est de CHF 120 000 pour
+                                                                                        les couples / partenaires enregistrés vivant en ménage commun.
+     57 200        4'053.00         10.00
+ 1
+   Les fractions inférieures à 100 francs sont abandonnées
+
+
+L’impôt calculé selon les barèmes ci-dessus représente l’impôt cantonal de base (100%). Pour déterminer le montant d’impôt
+effectivement dû, il convient de multiplier l’impôt de base par les coefficients annuels cantonal (155.0% en 2026) et communal.
+            Liste des documents nécessaires à l’établissement de la déclaration d’impôt
+Les pièces justificatives ne doivent plus être systématiquement jointes à la déclaration d’impôt, à l’exception des pièces obligatoires
+mentionnées ci-dessous.
+Pièces obligatoires :
+   Certificat de salaire de tous les employeurs.
+   Bilans et compte de résultat signés de la période fiscale si vous exercez une activité lucrative indépendante et êtes astreint à
+    tenir une comptabilité conformément à l’usage commercial ou
+    État des actifs et passifs ainsi qu’un relevé des recettes et des dépenses, à défaut d’une comptabilité tenue conformément à
+    l’usage commercial.
+   Questionnaire pour indépendant.
+   eRelevé fiscal bancaire.
+   Relevés bancaires des valeurs fiscales de vos titres à la date de fin de l’assujettissement
+   Justificatifs originaux des gains réalisés dans les loteries, à Swiss Lotto, Euro Millions, etc. si l’impôt fédéral anticipé a été retenu
+    sur le gain.
+   Attestations officielles des versements au 3e pilier A.
+   Attestations officielles de rachat d’années de cotisation au 2e pilier (caisse de pension / prévoyance professionnelle) dès
+    CHF 10'000.
+   Justificatifs des frais de garde des enfants par des tiers.
+
+Vous pouvez également déposer les pièces justificatives facultatives mentionnées ci-dessous. Toutefois, l’autorité fiscale se réserve
+le droit de réclamer ultérieurement les pièces dont elle aurait besoin pour ses vérifications. Dès lors, le contribuable doit tenir à
+disposition de l’autorité fiscale tous les justificatifs habituellement requis pour le contrôle de la déclaration d’impôt.
+
+Pièces facultatives :
+   Attestations officielles de rachat d’années de cotisation au 2e pilier (caisse de pension / prévoyance professionnelle) inférieur à
+    CHF 10'000.
+
+   Justificatifs des frais d’entretien d’immeuble(s).
+
+   Justificatifs liés aux frais médicaux et dentaires et frais liés à un handicap.
+
+   Décompte(s) des frais bancaires et postaux.
+

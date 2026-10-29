@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.local
+# Official PDFs are large and re-downloadable; the extracted text is kept for the AI.
+research/**/*.pdf
+research/**/*.xls
+research/**/*.xlsx

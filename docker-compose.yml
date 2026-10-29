@@ -1,0 +1,10 @@
+services:
+  vaud-tax:
+    build: .
+    container_name: vaud-tax
+    restart: unless-stopped
+    env_file: .env
+    # Only reachable from this machine; the Cloudflare tunnel (host network)
+    # forwards your hostname → http://localhost:6969.
+    ports:
+      - "127.0.0.1:6969:6969"

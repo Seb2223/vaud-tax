@@ -1,0 +1,1602 @@
+[
+{
+"name": "Adliswil",
+"bfs": 131,
+"rate": 102.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Aesch",
+"bfs": 241,
+"rate": 91.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Aeugst a.A.",
+"bfs": 1,
+"rate": 92.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Affoltern a.A.",
+"bfs": 2,
+"rate": 122.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Altikon",
+"bfs": 211,
+"rate": 114.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Andelfingen",
+"bfs": 291,
+"rate": 117.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bachenbülach",
+"bfs": 51,
+"rate": 106.0,
+"church": {
+"reformed": 10.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bachs",
+"bfs": 81,
+"rate": 128.0,
+"church": {
+"reformed": 14.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bassersdorf",
+"bfs": 52,
+"rate": 114.0,
+"church": {
+"reformed": 12.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bauma",
+"bfs": 297,
+"rate": 120.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Benken",
+"bfs": 22,
+"rate": 110.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Berg a.I.",
+"bfs": 23,
+"rate": 98.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Birmensdorf",
+"bfs": 242,
+"rate": 112.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bonstetten",
+"bfs": 3,
+"rate": 109.0,
+"church": {
+"reformed": 12.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Boppelsen",
+"bfs": 82,
+"rate": 94.0,
+"church": {
+"reformed": 13.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Brütten",
+"bfs": 213,
+"rate": 85.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bubikon",
+"bfs": 112,
+"rate": 118.0,
+"church": {
+"reformed": 14.0,
+"catholic": 12.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Buch a.I.",
+"bfs": 24,
+"rate": 106.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Buchs",
+"bfs": 83,
+"rate": 105.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bäretswil",
+"bfs": 111,
+"rate": 106.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Bülach",
+"bfs": 53,
+"rate": 114.0,
+"church": {
+"reformed": 10.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dachsen",
+"bfs": 25,
+"rate": 111.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dielsdorf",
+"bfs": 86,
+"rate": 105.0,
+"church": {
+"reformed": 12.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dietikon",
+"bfs": 243,
+"rate": 121.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dietlikon",
+"bfs": 54,
+"rate": 105.0,
+"church": {
+"reformed": 11.0,
+"catholic": 8.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dinhard",
+"bfs": 216,
+"rate": 90.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dorf",
+"bfs": 26,
+"rate": 104.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dägerlen",
+"bfs": 214,
+"rate": 106.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dällikon",
+"bfs": 84,
+"rate": 107.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dänikon",
+"bfs": 85,
+"rate": 120.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dättlikon",
+"bfs": 215,
+"rate": 114.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dübendorf",
+"bfs": 191,
+"rate": 96.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Dürnten",
+"bfs": 113,
+"rate": 113.0,
+"church": {
+"reformed": 14.0,
+"catholic": 12.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Egg",
+"bfs": 192,
+"rate": 101.0,
+"church": {
+"reformed": 12.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Eglisau",
+"bfs": 55,
+"rate": 113.0,
+"church": {
+"reformed": 13.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Elgg",
+"bfs": 294,
+"rate": 121.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Ellikon a.d.Th.",
+"bfs": 218,
+"rate": 117.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Elsau",
+"bfs": 219,
+"rate": 117.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Embrach",
+"bfs": 56,
+"rate": 114.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Erlenbach",
+"bfs": 151,
+"rate": 76.0,
+"church": {
+"reformed": 8.0,
+"catholic": 7.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Fehraltorf",
+"bfs": 172,
+"rate": 111.0,
+"church": {
+"reformed": 13.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Feuerthalen",
+"bfs": 27,
+"rate": 114.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Fischenthal",
+"bfs": 114,
+"rate": 122.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Flaach",
+"bfs": 28,
+"rate": 107.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Flurlingen",
+"bfs": 29,
+"rate": 111.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Freienstein-Teufen",
+"bfs": 57,
+"rate": 99.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Fällanden",
+"bfs": 193,
+"rate": 99.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Geroldswil",
+"bfs": 244,
+"rate": 112.0,
+"church": {
+"reformed": 11.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Glattfelden",
+"bfs": 58,
+"rate": 120.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Gossau",
+"bfs": 115,
+"rate": 117.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Greifensee",
+"bfs": 194,
+"rate": 96.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Grüningen",
+"bfs": 116,
+"rate": 116.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hagenbuch",
+"bfs": 220,
+"rate": 123.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hausen a.A.",
+"bfs": 4,
+"rate": 112.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hedingen",
+"bfs": 5,
+"rate": 100.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Henggart",
+"bfs": 31,
+"rate": 103.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Herrliberg",
+"bfs": 152,
+"rate": 75.0,
+"church": {
+"reformed": 9.0,
+"catholic": 8.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hettlingen",
+"bfs": 221,
+"rate": 97.0,
+"church": {
+"reformed": 13.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hinwil",
+"bfs": 117,
+"rate": 119.0,
+"church": {
+"reformed": 12.0,
+"catholic": 16.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hittnau",
+"bfs": 173,
+"rate": 113.0,
+"church": {
+"reformed": 13.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hochfelden",
+"bfs": 59,
+"rate": 116.0,
+"church": {
+"reformed": 10.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hombrechtikon",
+"bfs": 153,
+"rate": 113.0,
+"church": {
+"reformed": 11.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Horgen",
+"bfs": 295,
+"rate": 90.0,
+"church": {
+"reformed": 10.0,
+"catholic": 7.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Höri",
+"bfs": 60,
+"rate": 110.0,
+"church": {
+"reformed": 10.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hüntwangen",
+"bfs": 61,
+"rate": 108.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Hüttikon",
+"bfs": 87,
+"rate": 113.0,
+"church": {
+"reformed": 13.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Illnau-Effretikon",
+"bfs": 296,
+"rate": 113.0,
+"church": {
+"reformed": 13.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Kappel a.A.",
+"bfs": 6,
+"rate": 102.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Kilchberg",
+"bfs": 135,
+"rate": 72.0,
+"church": {
+"reformed": 8.0,
+"catholic": 6.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Kleinandelfingen",
+"bfs": 33,
+"rate": 116.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Kloten",
+"bfs": 62,
+"rate": 100.0,
+"church": {
+"reformed": 9.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Knonau",
+"bfs": 7,
+"rate": 116.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Küsnacht",
+"bfs": 154,
+"rate": 73.0,
+"church": {
+"reformed": 7.0,
+"catholic": 7.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Langnau a.A.",
+"bfs": 136,
+"rate": 106.0,
+"church": {
+"reformed": 10.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Laufen-Uhwiesen",
+"bfs": 34,
+"rate": 104.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Lindau",
+"bfs": 176,
+"rate": 106.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Lufingen",
+"bfs": 63,
+"rate": 92.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Marthalen",
+"bfs": 35,
+"rate": 107.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Maschwanden",
+"bfs": 8,
+"rate": 129.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Maur",
+"bfs": 195,
+"rate": 85.0,
+"church": {
+"reformed": 9.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Meilen",
+"bfs": 156,
+"rate": 79.0,
+"church": {
+"reformed": 9.0,
+"catholic": 7.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Mettmenstetten",
+"bfs": 9,
+"rate": 98.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Männedorf",
+"bfs": 155,
+"rate": 91.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Mönchaltorf",
+"bfs": 196,
+"rate": 108.0,
+"church": {
+"reformed": 13.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Neerach",
+"bfs": 88,
+"rate": 77.0,
+"church": {
+"reformed": 12.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Neftenbach",
+"bfs": 223,
+"rate": 102.0,
+"church": {
+"reformed": 10.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Niederglatt",
+"bfs": 89,
+"rate": 106.0,
+"church": {
+"reformed": 13.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Niederhasli",
+"bfs": 90,
+"rate": 112.0,
+"church": {
+"reformed": 13.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Niederweningen",
+"bfs": 91,
+"rate": 102.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Nürensdorf",
+"bfs": 64,
+"rate": 90.0,
+"church": {
+"reformed": 12.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oberembrach",
+"bfs": 65,
+"rate": 122.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oberengstringen",
+"bfs": 245,
+"rate": 109.0,
+"church": {
+"reformed": 10.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oberglatt",
+"bfs": 92,
+"rate": 117.0,
+"church": {
+"reformed": 13.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oberrieden",
+"bfs": 137,
+"rate": 84.0,
+"church": {
+"reformed": 12.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oberweningen",
+"bfs": 93,
+"rate": 96.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Obfelden",
+"bfs": 10,
+"rate": 119.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oetwil a.S.",
+"bfs": 157,
+"rate": 116.0,
+"church": {
+"reformed": 14.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Oetwil a.d.L.",
+"bfs": 246,
+"rate": 107.0,
+"church": {
+"reformed": 11.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Opfikon",
+"bfs": 66,
+"rate": 94.0,
+"church": {
+"reformed": 8.0,
+"catholic": 7.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Ossingen",
+"bfs": 37,
+"rate": 99.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Otelfingen",
+"bfs": 94,
+"rate": 112.0,
+"church": {
+"reformed": 13.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Ottenbach",
+"bfs": 11,
+"rate": 115.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Pfungen",
+"bfs": 224,
+"rate": 117.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Pfäffikon",
+"bfs": 177,
+"rate": 110.0,
+"church": {
+"reformed": 12.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rafz",
+"bfs": 67,
+"rate": 113.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Regensberg",
+"bfs": 95,
+"rate": 110.0,
+"church": {
+"reformed": 14.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Regensdorf",
+"bfs": 96,
+"rate": 117.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rheinau",
+"bfs": 38,
+"rate": 112.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Richterswil",
+"bfs": 138,
+"rate": 99.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rickenbach",
+"bfs": 225,
+"rate": 108.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rifferswil",
+"bfs": 12,
+"rate": 122.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rorbas",
+"bfs": 68,
+"rate": 103.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Russikon",
+"bfs": 178,
+"rate": 113.0,
+"church": {
+"reformed": 12.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rümlang",
+"bfs": 97,
+"rate": 109.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rüschlikon",
+"bfs": 139,
+"rate": 75.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Rüti",
+"bfs": 118,
+"rate": 119.0,
+"church": {
+"reformed": 14.0,
+"catholic": 12.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Schlatt",
+"bfs": 226,
+"rate": 125.0,
+"church": {
+"reformed": 14.0,
+"catholic": 12.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Schleinikon",
+"bfs": 98,
+"rate": 108.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Schlieren",
+"bfs": 247,
+"rate": 111.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Schwerzenbach",
+"bfs": 197,
+"rate": 104.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Schöfflisdorf",
+"bfs": 99,
+"rate": 99.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Seegräben",
+"bfs": 119,
+"rate": 111.0,
+"church": {
+"reformed": 12.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Seuzach",
+"bfs": 227,
+"rate": 100.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Stadel",
+"bfs": 100,
+"rate": 113.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Stallikon",
+"bfs": 13,
+"rate": 103.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Stammheim",
+"bfs": 292,
+"rate": 114.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Steinmaur",
+"bfs": 101,
+"rate": 108.0,
+"church": {
+"reformed": 12.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Stäfa",
+"bfs": 158,
+"rate": 78.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Thalheim a.d.Th.",
+"bfs": 39,
+"rate": 115.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Thalwil",
+"bfs": 141,
+"rate": 78.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Truttikon",
+"bfs": 41,
+"rate": 107.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Trüllikon",
+"bfs": 40,
+"rate": 110.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Turbenthal",
+"bfs": 228,
+"rate": 122.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Uetikon a.S.",
+"bfs": 159,
+"rate": 84.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Uitikon",
+"bfs": 248,
+"rate": 78.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Unterengstringen",
+"bfs": 249,
+"rate": 102.0,
+"church": {
+"reformed": 11.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Urdorf",
+"bfs": 250,
+"rate": 115.0,
+"church": {
+"reformed": 10.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Uster",
+"bfs": 198,
+"rate": 112.0,
+"church": {
+"reformed": 11.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Volken",
+"bfs": 43,
+"rate": 111.0,
+"church": {
+"reformed": 12.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Volketswil",
+"bfs": 199,
+"rate": 101.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wald",
+"bfs": 120,
+"rate": 122.0,
+"church": {
+"reformed": 14.0,
+"catholic": 12.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wallisellen",
+"bfs": 69,
+"rate": 93.0,
+"church": {
+"reformed": 7.0,
+"catholic": 8.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wangen-Brüttisellen",
+"bfs": 200,
+"rate": 101.0,
+"church": {
+"reformed": 11.0,
+"catholic": 8.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wasterkingen",
+"bfs": 70,
+"rate": 116.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Weiach",
+"bfs": 102,
+"rate": 96.0,
+"church": {
+"reformed": 11.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Weiningen",
+"bfs": 251,
+"rate": 107.0,
+"church": {
+"reformed": 11.0,
+"catholic": 9.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Weisslingen",
+"bfs": 180,
+"rate": 116.0,
+"church": {
+"reformed": 13.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wettswil a.A.",
+"bfs": 14,
+"rate": 91.0,
+"church": {
+"reformed": 11.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wetzikon",
+"bfs": 121,
+"rate": 119.0,
+"church": {
+"reformed": 14.0,
+"catholic": 14.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wiesendangen",
+"bfs": 298,
+"rate": 88.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wil",
+"bfs": 71,
+"rate": 99.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wila",
+"bfs": 181,
+"rate": 125.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wildberg",
+"bfs": 182,
+"rate": 127.0,
+"church": {
+"reformed": 14.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Winkel",
+"bfs": 72,
+"rate": 76.0,
+"church": {
+"reformed": 10.0,
+"catholic": 11.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Winterthur",
+"bfs": 230,
+"rate": 125.0,
+"church": {
+"reformed": 13.0,
+"catholic": 17.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Wädenswil",
+"bfs": 293,
+"rate": 103.0,
+"church": {
+"reformed": 11.0,
+"catholic": 13.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Zell",
+"bfs": 231,
+"rate": 118.0,
+"church": {
+"reformed": 14.0,
+"catholic": 12.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Zollikon",
+"bfs": 161,
+"rate": 76.0,
+"church": {
+"reformed": 8.0,
+"catholic": 8.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Zumikon",
+"bfs": 160,
+"rate": 75.0,
+"church": {
+"reformed": 8.0,
+"catholic": 8.0,
+"christCatholic": 14.0
+}
+},
+{
+"name": "Zürich",
+"bfs": 261,
+"rate": 119.0,
+"church": {
+"reformed": 10.0,
+"catholic": 10.0,
+"christCatholic": 14.0
+}
+}
+]
